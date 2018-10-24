@@ -1,0 +1,59 @@
+body{
+    font-family: Tahoma, Geneva, sans-serif;
+
+
+}
+
+
+
+
+h1 {
+    color: khaki;
+    font-weight: bold;
+    font-size: 500%;
+    text-align: center;
+    background-size: 1500px 1500px;
+
+  height: 220px;
+
+  background-image: url("pattern.jpeg");
+
+
+}
+
+
+#brushes {
+    color: white;
+    font-weight: bold;
+    font-size: 200%;
+    background-color: mediumspringgreen;
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 10px;
+
+
+
+}
+
+#frames {
+    color: white;
+    font-weight: bold;
+    font-size: 200%;
+    background-color: indianred;
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 10px;
+
+
+
+}
+
+#paint {
+    color: white;
+    font-weight: bold;
+    font-size: 200%;
+    background-color: skyblue;
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 10px;
+
+
+
+}
